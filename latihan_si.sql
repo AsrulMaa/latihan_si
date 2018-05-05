@@ -37,10 +37,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`username`, `password`) VALUES
-('asrul', '123'),
-('asrul', '123'),
-('asrul', '123');
+INSERT INTO `users` (`username`, `password`) VALUES ('asrul', '123');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
